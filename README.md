@@ -5,4 +5,4 @@
 
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=Biyuktul&show_icons=true&theme=dark&locale=en" alt="Biyuktul" /></p>
 
-<p><img align="bottom" src="https://github-readme-streak-stats.herokuapp.com/?user=Biyuktul&theme=dark" alt="Biyuktul" /></p>
+<p><img margin-top=40px src="https://github-readme-streak-stats.herokuapp.com/?user=Biyuktul&theme=dark" alt="Biyuktul" /></p>
