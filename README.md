@@ -4,7 +4,7 @@
 <h2 align="center">Welcome to my Github</h2>
 <h3 align="center">My Exprience</h3>
 <p align="center">
-   <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=35&center=true&vCenter=true&width=600&duration=1500&pause=1000&lines=Frontend+Heavy+Fullstack+Developer;IT+(Desktop)+Support;Data+Scraper;Network+Engineer" width="auto" height="35"/>
+   <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=35&center=true&vCenter=true&width=600&duration=1500&pause=1000&lines=Backend+Heavy+Fullstack+Developer;IT+(Desktop)+Support;Data+Scraper;Network+Engineer" width="auto" height="35"/>
 
 </p>
 
